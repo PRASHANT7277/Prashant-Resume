@@ -1,6 +1,6 @@
 # Resume
 
-Here is my resume which contains some information about my education, experiences, technical and soft skills.
+Here is my resume which contains some  information about my education, experiences, technical and soft skills.
 
 
 - [Google drive link of Resume](https://drive.google.com/file/d/1PVs_HqbLC2EoSVYomORLxeAeq05efZgG/view?usp=sharing)
