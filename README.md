@@ -10,7 +10,7 @@ Here is my resume which contains some information about my education, experience
 
 # Feedback
 
-If you have any feedback or queries,please reach out to me at kumar.prashant477@gmail.com.
+If you have any  feedback or queries,please reach out to me at kumar.prashant477@gmail.com.
 
 
 # Note
